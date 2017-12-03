@@ -1,0 +1,7 @@
+1. connecting through console
+a. go to C:/Program Files/mySQL/mySQL Server 5.7/bin
+b. mysql -u root -p (or) mysql -u root -phas³o
+
+
+2.commands
+https://www.pantz.org/software/mysql/mysqlcommands.html
